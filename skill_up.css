@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	height: 70px;
+	background-color: #ec715f;
+
+}
+
+ul {
+	width: 1024px;
+
+}
+
+li {
+	font-size: 16px;
+	color: #fafafa;
+
+}
+
+.nav {
+
+}
+
+.nav-list {
+	float: left;
+	list-style: none;
+
+}
